@@ -144,3 +144,17 @@ p {
     background-color: rgb(2, 58, 2);
     color: aqua;
 }
+
+.parent {
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 1.5;
+    list-style-type: disc;
+}
+
+.child {
+    padding-left: 40px
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 1.25;
+    text-indent: 40px;
+}
